@@ -5,6 +5,9 @@
 }
 body{
     background-color: rgb(1, 114, 243);
+}   
+img.lado{
+    float: right;
 }
 main{
     background-color: aliceblue;
